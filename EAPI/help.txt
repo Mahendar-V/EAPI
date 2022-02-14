@@ -1,0 +1,5 @@
+﻿Ef Core Commands:
+-----------------
+
+Scaffold-DbContext "Data Source=LPI105\SQLEXPRESS;Initial Catalog=EAPI;Integrated Security=True" 
+ Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -StartupProject EAPI.DataAccess
